@@ -7,19 +7,14 @@ use case: integrating ERP, HR, CRM, and Finance systems into business-ready, AI-
 ## Architecture Overview
 
 ```
-Sources (ERP, HR, CRM, Finance API)
-        |
-        v
-   BRONZE (raw, immutable, audited)
-        |
-        v
-   SILVER (cleaned, standardized, joined across systems)
-        |
-        v
-    GOLD (business-ready: profitability, utilization, fee benchmarking)
-        |
-        v
-  SERVING API (FastAPI) --> Dashboards / AI Applications
+```mermaid
+flowchart TD
+    A[Sources: ERP, HR, CRM, Finance API] --> B[Bronze: raw, immutable, audited]
+    B --> C[Silver: cleaned, standardized, joined]
+    C --> D[Gold: profitability, utilization, benchmarking]
+    D --> E[Serving API: FastAPI]
+    E --> F[Dashboards / AI Applications]
+```
 ```
 
 ## Project Structure
