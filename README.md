@@ -37,6 +37,9 @@ Sources (ERP, HR, CRM, Finance API)
 ## How to Run
 
 ```bash
+# 0. Install dependencies
+pip install -r requirements.txt
+
 # 1. Ingest all sources into Bronze
 python pipelines/ingestion/ingest_erp.py
 python pipelines/ingestion/ingest_hr.py
