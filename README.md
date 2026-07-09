@@ -6,7 +6,6 @@ use case: integrating ERP, HR, CRM, and Finance systems into business-ready, AI-
 
 ## Architecture Overview
 
-```
 ```mermaid
 flowchart TD
     A[Sources: ERP, HR, CRM, Finance API] --> B[Bronze: raw, immutable, audited]
@@ -14,7 +13,6 @@ flowchart TD
     C --> D[Gold: profitability, utilization, benchmarking]
     D --> E[Serving API: FastAPI]
     E --> F[Dashboards / AI Applications]
-```
 ```
 
 ## Project Structure
