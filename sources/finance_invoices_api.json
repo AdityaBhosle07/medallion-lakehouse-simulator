@@ -1,0 +1,422 @@
+[
+  {
+    "invoice_id": "INV0001",
+    "project_id": "P007",
+    "amount": 76870.93,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-12-23"
+  },
+  {
+    "invoice_id": "INV0002",
+    "project_id": "P029",
+    "amount": 12181.11,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2025-01-13"
+  },
+  {
+    "invoice_id": "INV0003",
+    "project_id": "P010",
+    "amount": 25346.53,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-11-05"
+  },
+  {
+    "invoice_id": "INV0004",
+    "project_id": "P020",
+    "amount": 147610.29,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-06-25"
+  },
+  {
+    "invoice_id": "INV0005",
+    "project_id": "P001",
+    "amount": 100843.75,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-11-02"
+  },
+  {
+    "invoice_id": "INV0006",
+    "project_id": "P030",
+    "amount": 100181.53,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-09-27"
+  },
+  {
+    "invoice_id": "INV0007",
+    "project_id": "P004",
+    "amount": 133677.48,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-07-20"
+  },
+  {
+    "invoice_id": "INV0008",
+    "project_id": "P005",
+    "amount": 42307.54,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-08-03"
+  },
+  {
+    "invoice_id": "INV0009",
+    "project_id": "P023",
+    "amount": 52746.28,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-09-27"
+  },
+  {
+    "invoice_id": "INV0010",
+    "project_id": "P017",
+    "amount": 74302.71,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-04-04"
+  },
+  {
+    "invoice_id": "INV0011",
+    "project_id": "P021",
+    "amount": 64689.21,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-02-15"
+  },
+  {
+    "invoice_id": "INV0012",
+    "project_id": "P001",
+    "amount": 51366.37,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-09-25"
+  },
+  {
+    "invoice_id": "INV0013",
+    "project_id": "P006",
+    "amount": 111702.17,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-03-13"
+  },
+  {
+    "invoice_id": "INV0014",
+    "project_id": "P018",
+    "amount": 3431.12,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-06-01"
+  },
+  {
+    "invoice_id": "INV0015",
+    "project_id": "P018",
+    "amount": 7332.16,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-08-19"
+  },
+  {
+    "invoice_id": "INV0016",
+    "project_id": "P018",
+    "amount": 23917.88,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-02-12"
+  },
+  {
+    "invoice_id": "INV0017",
+    "project_id": "P010",
+    "amount": 55968.42,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2025-01-01"
+  },
+  {
+    "invoice_id": "INV0018",
+    "project_id": "P007",
+    "amount": 102945.87,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-04-15"
+  },
+  {
+    "invoice_id": "INV0019",
+    "project_id": "P012",
+    "amount": 117457.2,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-06-07"
+  },
+  {
+    "invoice_id": "INV0020",
+    "project_id": "P030",
+    "amount": 139622.39,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-06-30"
+  },
+  {
+    "invoice_id": "INV0021",
+    "project_id": "P029",
+    "amount": 63019.57,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-12-06"
+  },
+  {
+    "invoice_id": "INV0022",
+    "project_id": "P026",
+    "amount": 139760.75,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-09-11"
+  },
+  {
+    "invoice_id": "INV0023",
+    "project_id": "P009",
+    "amount": 25561.28,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-04-20"
+  },
+  {
+    "invoice_id": "INV0024",
+    "project_id": "P013",
+    "amount": 131080.68,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-08-15"
+  },
+  {
+    "invoice_id": "INV0025",
+    "project_id": "P007",
+    "amount": 122854.82,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-12-24"
+  },
+  {
+    "invoice_id": "INV0026",
+    "project_id": "P010",
+    "amount": 123439.38,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-08-16"
+  },
+  {
+    "invoice_id": "INV0027",
+    "project_id": "P001",
+    "amount": 99684.91,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-12-02"
+  },
+  {
+    "invoice_id": "INV0028",
+    "project_id": "P009",
+    "amount": 129924.24,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-12-25"
+  },
+  {
+    "invoice_id": "INV0029",
+    "project_id": "P021",
+    "amount": 77392.04,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-07-03"
+  },
+  {
+    "invoice_id": "INV0030",
+    "project_id": "P011",
+    "amount": 141007.1,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-09-24"
+  },
+  {
+    "invoice_id": "INV0031",
+    "project_id": "P006",
+    "amount": 87927.28,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-02-09"
+  },
+  {
+    "invoice_id": "INV0032",
+    "project_id": "P004",
+    "amount": 90292.55,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-11-17"
+  },
+  {
+    "invoice_id": "INV0033",
+    "project_id": "P014",
+    "amount": 91718.91,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-04-28"
+  },
+  {
+    "invoice_id": "INV0034",
+    "project_id": "P013",
+    "amount": 135126.7,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-09-17"
+  },
+  {
+    "invoice_id": "INV0035",
+    "project_id": "P002",
+    "amount": 106900.22,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2025-06-16"
+  },
+  {
+    "invoice_id": "INV0036",
+    "project_id": "P030",
+    "amount": 121363.61,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-07-20"
+  },
+  {
+    "invoice_id": "INV0037",
+    "project_id": "P012",
+    "amount": 65832.02,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-12-04"
+  },
+  {
+    "invoice_id": "INV0038",
+    "project_id": "P020",
+    "amount": 48459.52,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-11-03"
+  },
+  {
+    "invoice_id": "INV0039",
+    "project_id": "P017",
+    "amount": 47774.13,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-11-30"
+  },
+  {
+    "invoice_id": "INV0040",
+    "project_id": "P013",
+    "amount": 105186.85,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-05-10"
+  },
+  {
+    "invoice_id": "INV0041",
+    "project_id": "P007",
+    "amount": 64226.06,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-06-27"
+  },
+  {
+    "invoice_id": "INV0042",
+    "project_id": "P020",
+    "amount": 86227.58,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-07-15"
+  },
+  {
+    "invoice_id": "INV0043",
+    "project_id": "P027",
+    "amount": 2060.08,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-08-03"
+  },
+  {
+    "invoice_id": "INV0044",
+    "project_id": "P014",
+    "amount": 118292.31,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-11-25"
+  },
+  {
+    "invoice_id": "INV0045",
+    "project_id": "P015",
+    "amount": 67384.33,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-08-06"
+  },
+  {
+    "invoice_id": "INV0046",
+    "project_id": "P017",
+    "amount": 72031.56,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-06-22"
+  },
+  {
+    "invoice_id": "INV0047",
+    "project_id": "P022",
+    "amount": 14549.74,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-12-09"
+  },
+  {
+    "invoice_id": "INV0048",
+    "project_id": "P003",
+    "amount": 123126.67,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-11-13"
+  },
+  {
+    "invoice_id": "INV0049",
+    "project_id": "P008",
+    "amount": 121371.31,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-01-26"
+  },
+  {
+    "invoice_id": "INV0050",
+    "project_id": "P002",
+    "amount": 38236.7,
+    "fee_type": "Hourly",
+    "invoice_date": "2024-03-15"
+  },
+  {
+    "invoice_id": "INV0051",
+    "project_id": "P015",
+    "amount": 63337.27,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-08-12"
+  },
+  {
+    "invoice_id": "INV0052",
+    "project_id": "P007",
+    "amount": 108315.2,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-05-21"
+  },
+  {
+    "invoice_id": "INV0053",
+    "project_id": "P013",
+    "amount": 38109.7,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2024-01-06"
+  },
+  {
+    "invoice_id": "INV0054",
+    "project_id": "P029",
+    "amount": 113142.74,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2025-03-11"
+  },
+  {
+    "invoice_id": "INV0055",
+    "project_id": "P008",
+    "amount": 28031.23,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-06-14"
+  },
+  {
+    "invoice_id": "INV0056",
+    "project_id": "P015",
+    "amount": 9432.32,
+    "fee_type": "Fixed Fee",
+    "invoice_date": "2024-05-04"
+  },
+  {
+    "invoice_id": "INV0057",
+    "project_id": "P015",
+    "amount": 21734.19,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-06-27"
+  },
+  {
+    "invoice_id": "INV0058",
+    "project_id": "P018",
+    "amount": 90126.94,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-05-31"
+  },
+  {
+    "invoice_id": "INV0059",
+    "project_id": "P014",
+    "amount": 124924.24,
+    "fee_type": "Percentage of Construction",
+    "invoice_date": "2025-04-01"
+  },
+  {
+    "invoice_id": "INV0060",
+    "project_id": "P029",
+    "amount": 25555.37,
+    "fee_type": "Hourly",
+    "invoice_date": "2025-04-05"
+  }
+]

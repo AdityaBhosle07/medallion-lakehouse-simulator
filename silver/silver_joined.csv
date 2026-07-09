@@ -1,0 +1,31 @@
+project_id,project_name,client_id,project_type,status,budget,actual_cost,start_date,client_name,industry,relationship_manager,client_since,employee_name,department,hire_date,hourly_rate,utilization_pct,total_invoiced,invoice_count
+P001,Project 1,C011,Residential,Active,1496023.47,544477.22,2024-05-22,Client 11,Retail,E008,2017-12-23,Employee 8,Engineering,2018-10-04,139.12,0.92,251895.03,3.0
+P002,Project 2,C012,Residential,On Hold,1494302.1,1163455.06,2025-03-08,Client 12,Government,E005,2022-07-14,Employee 5,Management,2023-10-21,86.92,0.55,145136.91999999998,2.0
+P003,Project 3,C001,Residential,Active,476344.05,1081031.89,2024-01-28,Client 1,Retail,E002,2015-07-25,Employee 2,Engineering,2020-12-21,95.68,0.76,123126.67,1.0
+P004,Project 4,C009,Residential,On Hold,1317274.65,1162579.45,2024-08-13,Client 9,Government,E022,2021-07-18,Employee 22,Management,2020-12-22,141.55,0.87,223970.03000000003,2.0
+P005,Project 5,C008,Institutional,Completed,1628389.39,53387.44,2024-06-12,Client 8,Healthcare,E020,2015-12-02,Employee 20,Engineering,2022-07-23,90.85,0.53,42307.54,1.0
+P006,Project 6,C012,Commercial,Completed,591849.12,483546.35,2024-12-10,Client 12,Government,E005,2022-07-14,Employee 5,Management,2023-10-21,86.92,0.55,199629.45,2.0
+P007,Project 7,C002,Residential,Completed,238596.93,1785838.39,2024-09-27,Client 2,Government,E017,2020-12-15,Employee 17,Design,2022-12-21,127.92,0.91,475212.88,5.0
+P008,Project 8,C013,Residential,On Hold,945878.52,297141.9,2025-01-22,Client 13,Retail,E015,2018-07-19,Employee 15,Design,2020-10-15,57.03,0.72,149402.54,2.0
+P009,Project 9,C002,Institutional,Completed,1667339.1,1314150.69,2025-01-05,Client 2,Government,E017,2020-12-15,Employee 17,Design,2022-12-21,127.92,0.91,155485.52000000002,2.0
+P010,Project 10,C010,Residential,On Hold,185632.54,1402202.44,2024-10-23,Client 10,Retail,E009,2017-04-16,Employee 9,Design,2023-10-07,62.37,0.8,204754.33000000002,3.0
+P011,Project 11,C002,Residential,Active,791246.14,974025.22,2025-01-08,Client 2,Government,E017,2020-12-15,Employee 17,Design,2022-12-21,127.92,0.91,141007.1,1.0
+P012,Project 12,C003,Commercial,Completed,458538.71,589974.31,2024-03-14,Client 3,Education,E002,2020-09-11,Employee 2,Engineering,2020-12-21,95.68,0.76,183289.22,2.0
+P013,Project 13,C010,Institutional,Active,1091572.76,544310.51,2025-04-18,Client 10,Retail,E009,2017-04-16,Employee 9,Design,2023-10-07,62.37,0.8,409503.93,4.0
+P014,Project 14,C007,Commercial,On Hold,1391915.82,492407.26,2024-11-28,Client 7,Education,E019,2021-09-01,Employee 19,Design,2019-01-18,141.53,0.91,334935.46,3.0
+P015,Project 15,C014,Residential,Active,1652515.06,1698394.35,2025-02-14,Client 14,Healthcare,E001,2020-02-21,Employee 1,Engineering,2019-06-10,110.87,0.97,161888.11,4.0
+P016,Project 16,C005,Residential,Active,1830615.44,1208390.91,2024-11-18,Client 5,Healthcare,E022,2017-08-21,Employee 22,Management,2020-12-22,141.55,0.87,0.0,0.0
+P017,Project 17,C004,Institutional,Completed,821482.21,1923968.03,2025-04-14,Client 4,Healthcare,E006,2015-10-08,Employee 6,Design,2021-10-16,37.42,0.73,194108.4,3.0
+P018,Project 18,C003,Commercial,Active,530923.64,1196418.36,2024-09-26,Client 3,Education,E002,2020-09-11,Employee 2,Engineering,2020-12-21,95.68,0.76,124808.1,4.0
+P019,Project 19,C012,Institutional,Completed,1800754.62,862765.04,2024-08-12,Client 12,Government,E005,2022-07-14,Employee 5,Management,2023-10-21,86.92,0.55,0.0,0.0
+P020,Project 20,C003,Institutional,Completed,227273.35,137059.73,2024-04-22,Client 3,Education,E002,2020-09-11,Employee 2,Engineering,2020-12-21,95.68,0.76,282297.39,3.0
+P021,Project 21,C003,Institutional,Active,1594554.76,909649.53,2024-03-06,Client 3,Education,E002,2020-09-11,Employee 2,Engineering,2020-12-21,95.68,0.76,142081.25,2.0
+P022,Project 22,C007,Commercial,On Hold,1992436.69,1129975.55,2025-07-20,Client 7,Education,E019,2021-09-01,Employee 19,Design,2019-01-18,141.53,0.91,14549.74,1.0
+P023,Project 23,C014,Residential,On Hold,1455407.55,1444323.36,2025-07-03,Client 14,Healthcare,E001,2020-02-21,Employee 1,Engineering,2019-06-10,110.87,0.97,52746.28,1.0
+P024,Project 24,C013,Commercial,On Hold,713342.17,644610.27,2024-06-10,Client 13,Retail,E015,2018-07-19,Employee 15,Design,2020-10-15,57.03,0.72,0.0,0.0
+P025,Project 25,C008,Residential,On Hold,1757913.23,582581.44,2025-05-27,Client 8,Healthcare,E020,2015-12-02,Employee 20,Engineering,2022-07-23,90.85,0.53,0.0,0.0
+P026,Project 26,C013,Residential,On Hold,1829624.29,1833268.25,2024-11-01,Client 13,Retail,E015,2018-07-19,Employee 15,Design,2020-10-15,57.03,0.72,139760.75,1.0
+P027,Project 27,C014,Institutional,On Hold,1237491.91,354848.89,2024-06-14,Client 14,Healthcare,E001,2020-02-21,Employee 1,Engineering,2019-06-10,110.87,0.97,2060.08,1.0
+P028,Project 28,C009,Institutional,Active,1217941.94,1046527.76,2024-04-24,Client 9,Government,E022,2021-07-18,Employee 22,Management,2020-12-22,141.55,0.87,0.0,0.0
+P029,Project 29,C015,Commercial,Completed,516932.01,536195.48,2025-08-03,Client 15,Healthcare,E003,2021-01-11,Employee 3,Engineering,2024-01-18,121.86,0.81,213898.79,4.0
+P030,Project 30,C002,Residential,On Hold,997681.4,182577.79,2025-06-29,Client 2,Government,E017,2020-12-15,Employee 17,Design,2022-12-21,127.92,0.91,361167.53,3.0

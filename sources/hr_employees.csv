@@ -1,0 +1,26 @@
+employee_id,employee_name,department,hire_date,hourly_rate,utilization_pct
+E001,Employee 1,Engineering,2019-06-10,110.87,0.97
+E002,Employee 2,Engineering,2020-12-21,95.68,0.76
+E003,Employee 3,Engineering,2024-01-18,121.86,0.81
+E004,Employee 4,Admin,2022-06-23,149.44,0.79
+E005,Employee 5,Management,2023-10-21,86.92,0.55
+E006,Employee 6,Design,2021-10-16,37.42,0.73
+E007,Employee 7,Engineering,2018-01-30,43.16,0.78
+E008,Employee 8,Engineering,2018-10-04,139.12,0.92
+E009,Employee 9,Design,2023-10-07,62.37,0.8
+E010,Employee 10,Engineering,2024-01-18,50.22,0.96
+E011,Employee 11,Management,2020-09-22,125.23,0.88
+E012,Employee 12,Engineering,2019-01-22,46.15,0.66
+E013,Employee 13,Management,2022-08-11,88.71,0.84
+E014,Employee 14,Design,2018-09-06,81.3,0.6
+E015,Employee 15,Design,2020-10-15,57.03,0.72
+E016,Employee 16,Engineering,2022-09-25,56.1,0.68
+E017,Employee 17,Design,2022-12-21,127.92,0.91
+E018,Employee 18,Design,2018-07-27,110.0,0.72
+E019,Employee 19,Design,2019-01-18,141.53,0.91
+E020,Employee 20,Engineering,2022-07-23,90.85,0.53
+E021,Employee 21,Management,2018-08-29,53.93,0.4
+E022,Employee 22,Management,2020-12-22,141.55,0.87
+E023,Employee 23,Admin,2022-09-29,115.11,0.84
+E024,Employee 24,Management,2019-09-27,56.84,0.53
+E025,Employee 25,Design,2024-06-30,119.61,0.44

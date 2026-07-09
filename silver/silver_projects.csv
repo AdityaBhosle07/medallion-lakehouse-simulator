@@ -1,0 +1,31 @@
+project_id,project_name,client_id,project_type,status,budget,actual_cost,start_date
+P001,Project 1,C011,Residential,Active,1496023.47,544477.22,2024-05-22
+P002,Project 2,C012,Residential,On Hold,1494302.1,1163455.06,2025-03-08
+P003,Project 3,C001,Residential,Active,476344.05,1081031.89,2024-01-28
+P004,Project 4,C009,Residential,On Hold,1317274.65,1162579.45,2024-08-13
+P005,Project 5,C008,Institutional,Completed,1628389.39,53387.44,2024-06-12
+P006,Project 6,C012,Commercial,Completed,591849.12,483546.35,2024-12-10
+P007,Project 7,C002,Residential,Completed,238596.93,1785838.39,2024-09-27
+P008,Project 8,C013,Residential,On Hold,945878.52,297141.9,2025-01-22
+P009,Project 9,C002,Institutional,Completed,1667339.1,1314150.69,2025-01-05
+P010,Project 10,C010,Residential,On Hold,185632.54,1402202.44,2024-10-23
+P011,Project 11,C002,Residential,Active,791246.14,974025.22,2025-01-08
+P012,Project 12,C003,Commercial,Completed,458538.71,589974.31,2024-03-14
+P013,Project 13,C010,Institutional,Active,1091572.76,544310.51,2025-04-18
+P014,Project 14,C007,Commercial,On Hold,1391915.82,492407.26,2024-11-28
+P015,Project 15,C014,Residential,Active,1652515.06,1698394.35,2025-02-14
+P016,Project 16,C005,Residential,Active,1830615.44,1208390.91,2024-11-18
+P017,Project 17,C004,Institutional,Completed,821482.21,1923968.03,2025-04-14
+P018,Project 18,C003,Commercial,Active,530923.64,1196418.36,2024-09-26
+P019,Project 19,C012,Institutional,Completed,1800754.62,862765.04,2024-08-12
+P020,Project 20,C003,Institutional,Completed,227273.35,137059.73,2024-04-22
+P021,Project 21,C003,Institutional,Active,1594554.76,909649.53,2024-03-06
+P022,Project 22,C007,Commercial,On Hold,1992436.69,1129975.55,2025-07-20
+P023,Project 23,C014,Residential,On Hold,1455407.55,1444323.36,2025-07-03
+P024,Project 24,C013,Commercial,On Hold,713342.17,644610.27,2024-06-10
+P025,Project 25,C008,Residential,On Hold,1757913.23,582581.44,2025-05-27
+P026,Project 26,C013,Residential,On Hold,1829624.29,1833268.25,2024-11-01
+P027,Project 27,C014,Institutional,On Hold,1237491.91,354848.89,2024-06-14
+P028,Project 28,C009,Institutional,Active,1217941.94,1046527.76,2024-04-24
+P029,Project 29,C015,Commercial,Completed,516932.01,536195.48,2025-08-03
+P030,Project 30,C002,Residential,On Hold,997681.4,182577.79,2025-06-29

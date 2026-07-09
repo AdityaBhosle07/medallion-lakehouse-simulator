@@ -1,0 +1,61 @@
+invoice_id,project_id,amount,fee_type,invoice_date,_source,_load_timestamp,_ingestion_batch_id
+INV0001,P007,76870.93,Fixed Fee,2024-12-23,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0002,P029,12181.11,Fixed Fee,2025-01-13,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0003,P010,25346.53,Percentage of Construction,2024-11-05,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0004,P020,147610.29,Percentage of Construction,2025-06-25,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0005,P001,100843.75,Percentage of Construction,2024-11-02,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0006,P030,100181.53,Fixed Fee,2024-09-27,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0007,P004,133677.48,Percentage of Construction,2025-07-20,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0008,P005,42307.54,Percentage of Construction,2024-08-03,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0009,P023,52746.28,Percentage of Construction,2024-09-27,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0010,P017,74302.71,Fixed Fee,2024-04-04,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0011,P021,64689.21,Hourly,2024-02-15,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0012,P001,51366.37,Fixed Fee,2024-09-25,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0013,P006,111702.17,Percentage of Construction,2025-03-13,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0014,P018,3431.12,Fixed Fee,2024-06-01,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0015,P018,7332.16,Hourly,2025-08-19,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0016,P018,23917.88,Fixed Fee,2024-02-12,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0017,P010,55968.42,Fixed Fee,2025-01-01,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0018,P007,102945.87,Percentage of Construction,2024-04-15,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0019,P012,117457.2,Hourly,2024-06-07,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0020,P030,139622.39,Fixed Fee,2024-06-30,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0021,P029,63019.57,Fixed Fee,2024-12-06,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0022,P026,139760.75,Percentage of Construction,2024-09-11,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0023,P009,25561.28,Percentage of Construction,2024-04-20,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0024,P013,131080.68,Hourly,2024-08-15,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0025,P007,122854.82,Hourly,2024-12-24,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0026,P010,123439.38,Fixed Fee,2024-08-16,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0027,P001,99684.91,Hourly,2024-12-02,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0028,P009,129924.24,Hourly,2024-12-25,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0029,P021,77392.04,Percentage of Construction,2025-07-03,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0030,P011,141007.1,Fixed Fee,2024-09-24,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0031,P006,87927.28,Hourly,2024-02-09,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0032,P004,90292.55,Hourly,2024-11-17,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0033,P014,91718.91,Percentage of Construction,2024-04-28,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0034,P013,135126.7,Fixed Fee,2024-09-17,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0035,P002,106900.22,Fixed Fee,2025-06-16,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0036,P030,121363.61,Percentage of Construction,2024-07-20,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0037,P012,65832.02,Percentage of Construction,2024-12-04,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0038,P020,48459.52,Fixed Fee,2024-11-03,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0039,P017,47774.13,Hourly,2024-11-30,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0040,P013,105186.85,Percentage of Construction,2024-05-10,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0041,P007,64226.06,Hourly,2024-06-27,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0042,P020,86227.58,Hourly,2025-07-15,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0043,P027,2060.08,Hourly,2024-08-03,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0044,P014,118292.31,Percentage of Construction,2024-11-25,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0045,P015,67384.33,Percentage of Construction,2024-08-06,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0046,P017,72031.56,Percentage of Construction,2024-06-22,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0047,P022,14549.74,Percentage of Construction,2024-12-09,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0048,P003,123126.67,Fixed Fee,2024-11-13,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0049,P008,121371.31,Fixed Fee,2024-01-26,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0050,P002,38236.7,Hourly,2024-03-15,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0051,P015,63337.27,Percentage of Construction,2025-08-12,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0052,P007,108315.2,Hourly,2025-05-21,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0053,P013,38109.7,Percentage of Construction,2024-01-06,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0054,P029,113142.74,Fixed Fee,2025-03-11,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0055,P008,28031.23,Percentage of Construction,2025-06-14,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0056,P015,9432.32,Fixed Fee,2024-05-04,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0057,P015,21734.19,Hourly,2025-06-27,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0058,P018,90126.94,Hourly,2025-05-31,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0059,P014,124924.24,Percentage of Construction,2025-04-01,finance_invoices,20260709T041843,finance_invoices_20260709T041843
+INV0060,P029,25555.37,Hourly,2025-04-05,finance_invoices,20260709T041843,finance_invoices_20260709T041843

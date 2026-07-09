@@ -1,0 +1,16 @@
+client_id,client_name,industry,relationship_manager,client_since
+C001,Client 1,Retail,E002,2015-07-25
+C002,Client 2,Government,E017,2020-12-15
+C003,Client 3,Education,E002,2020-09-11
+C004,Client 4,Healthcare,E006,2015-10-08
+C005,Client 5,Healthcare,E022,2017-08-21
+C006,Client 6,Government,E004,2021-05-22
+C007,Client 7,Education,E019,2021-09-01
+C008,Client 8,Healthcare,E020,2015-12-02
+C009,Client 9,Government,E022,2021-07-18
+C010,Client 10,Retail,E009,2017-04-16
+C011,Client 11,Retail,E008,2017-12-23
+C012,Client 12,Government,E005,2022-07-14
+C013,Client 13,Retail,E015,2018-07-19
+C014,Client 14,Healthcare,E001,2020-02-21
+C015,Client 15,Healthcare,E003,2021-01-11
